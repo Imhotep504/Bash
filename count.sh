@@ -13,3 +13,6 @@ do
 	COUNTER=$((COUNTER+1))
 	echo "I have counterd $COUNTER files in this directory" 
 done 
+
+#adding exit code 
+exit 0 

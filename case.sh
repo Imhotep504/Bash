@@ -18,3 +18,6 @@ case "$1" in
 	*) echo "That wasnt even a choice dude" "
 	;; 
 esac 
+
+#added status code entry 
+exit 0 

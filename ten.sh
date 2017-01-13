@@ -10,3 +10,5 @@ USERNEW=${USERNEW#*=}
 USERNOW=$(echo $USERNEW | tr [:lower:] [:upper:] ) 
 
 echo the username you have entered is $USERNOW
+
+echo 0

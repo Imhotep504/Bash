@@ -10,3 +10,6 @@ do
 	COUNTER=$((COUNTER + 1))
 	echo "$COUNTER seconds have passed since script starting"
 done 
+
+#status code entry 
+exit 0 

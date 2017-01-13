@@ -2,7 +2,7 @@
 
 #infinite script that runs while user in logged in 
 while true; do 
-trap "echo NOPE Int" 
+trap "echo NOPE" Int 
 
 #pinghost method 
 pinghost() 

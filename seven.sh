@@ -4,7 +4,7 @@
 #patterns include ${#}, ${%}, 
 #create var's to be used in pgm 
 #% sign is basicaly from opposite end 
-FILENAME=/usr/bin/blah#% sign is basicaly from opposite end 
+FILENAME=/usr/bin/blah
 FILE2=/tmp/blah/foo/bar
 FILE3=/blah/foo/tmp
 FILE4=/usr/foo/bar

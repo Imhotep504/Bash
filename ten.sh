@@ -11,4 +11,5 @@ USERNOW=$(echo $USERNEW | tr [:lower:] [:upper:] )
 
 echo the username you have entered is $USERNOW
 
+#adding status code entry 
 echo 0

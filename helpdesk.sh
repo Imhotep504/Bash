@@ -4,6 +4,7 @@
 while true; do 
 trap "echo NOPE Int" 
 
+#pinghost method 
 pinghost() 
 {
 	echo which host do you want to ping 
@@ -33,3 +34,7 @@ fi
 
 done 
 done  
+
+
+#status code entry 
+exit 0 

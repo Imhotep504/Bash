@@ -9,7 +9,7 @@ pinghost()
 {
 	echo which host do you want to ping 
 	read HOSTNAME
-	ping $HOSTNAME 
+	ping -c 1  $HOSTNAME 
 }
 
 #now prompt user for option 
